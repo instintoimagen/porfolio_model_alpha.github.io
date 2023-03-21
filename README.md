@@ -4,4 +4,4 @@
 
 <image src="/readme-img.jpg" alt="Vista previa del sitio">
 
-[Ver demo aquí](https://instintoimagen.github.io/porfolio_model_alpha)
+[Ver demo aquí](https://sergioortegadev.github.io/porfolio_model_alpha/)
